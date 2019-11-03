@@ -1,3 +1,9 @@
+# Batch processing jdbc
+
+Examples for 
+- `@EnableBatchProcessing` job and step builder
+- DAO pattern using jdbcTemplate / Prepared statements
+
 # Setup
 
 ## Docker
