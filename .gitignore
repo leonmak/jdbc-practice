@@ -1,0 +1,12 @@
+.gradle
+.idea
+.mvn
+build
+target
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+batch-processing.iml
+gradle
+pom.xml
